@@ -31,6 +31,13 @@
   text-decoration: none;
 }
 
+#main-navbar ul li a:hover {
+	background-color: #000;
+}
+
+#onpage{
+  text-decoration: underline overline; 
+}
 
 #sidebar {
   background-color: red;
@@ -54,6 +61,6 @@
   text-decoration: none;
 }
 
-
-
-
+#sidebar-container ul li a:hover {
+	background-color: #000;
+}
