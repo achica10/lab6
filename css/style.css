@@ -40,4 +40,20 @@
   right: 0%;
 }
 
+#sidebar-container ul {
+  list-style-type: none;
+  padding: 0;
+
+}
+
+#sidebar-container ul li a {
+  color: #fff;
+  text-align: center;
+  display: block;
+  padding: 15px 0;
+  text-decoration: none;
+}
+
+
+
 
