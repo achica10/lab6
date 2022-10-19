@@ -32,6 +32,12 @@
 }
 
 
-a
+#sidebar {
+  background-color: red;
+  position: fixed;
+  height: 100%;
+  width: 20%;
+  right: 0%;
+}
 
 
