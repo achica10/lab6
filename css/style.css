@@ -1,0 +1,17 @@
+#main-navbar { 
+  background-color: blue;
+  position: relative;  
+}
+
+#navbar-container {
+	position: relative;
+	text-align: center;
+	width: 100%
+}
+
+#main-navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
