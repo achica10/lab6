@@ -15,3 +15,15 @@
   padding: 0;
   overflow: hidden;
 }
+
+#main-navbar ul li {
+	display: block;
+	float: left;
+}
+
+#main-navbar ul li a {
+	display: block;
+	padding: 10px 20px;
+	color: #fff;
+	text-decoration: none;
+}
